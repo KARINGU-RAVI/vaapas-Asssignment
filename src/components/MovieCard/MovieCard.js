@@ -16,3 +16,4 @@ export default function MovieCard({ movie, dogImg }) {
     </div>
   );
 }
+
