@@ -5,7 +5,7 @@ export default function MovieCard({ movie, dogImg }) {
     <div className="card1">
       <img className="card--image"
         src={dogImg}
-        alt="poster image"
+        alt="poster "
       />
       <div className="card--content">
         <h3 className="card--title">{movie.title}</h3>
